@@ -85,7 +85,6 @@ main .cartao-pokemon .gif{
 }
 
 main .cartao-pokemon .tipos{
-	background-color: white;
 	display: flex;
 	gap: 15px;
 }
