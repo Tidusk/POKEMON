@@ -19,6 +19,5 @@ botaoAlterarTema.addEventListener("click", () => {
 
         imagemBotaoTrocaDeTema.setAttribute("src", "./src/imagens/moon.png")
     }
-
 })
 
